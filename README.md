@@ -56,20 +56,27 @@ https://colab.research.google.com/drive/1Otq7ok20gkECfx8ciF9qRnDcdvqK2uJY?usp=sh
 
 
 
+![image](https://user-images.githubusercontent.com/93160309/143938438-6d6ec846-6c00-4493-9459-2fbf6114592b.png)
+#### Большее количество дифференциально экспрессированных генов увеличило свою экспрессию
 
+### Heatmap, показывающий созависимость экспрессии генов из контрольных и репрограммированных образцов
 
+![image](https://user-images.githubusercontent.com/93160309/143952471-5d07f184-2f01-4427-8f5e-141d132a8850.png)
+#### Экспрессия генов одинакова в одной группе образцов и отличается между группами
 
+### Heatmap для первых 20 наиболее дифференциально экспрессированных генов
 
+![image](https://user-images.githubusercontent.com/93160309/143953321-5b051430-d073-4b57-9b5c-7fcdb5edd159.png)
 
+### Графики со значениями "Normalized counts" в контрольных и перепрограммированных образцах
 
+![image](https://user-images.githubusercontent.com/93160309/143954284-8f8500c4-bb59-4de6-8371-cb977f14039c.png)
 
+![image](https://user-images.githubusercontent.com/93160309/143954313-0bbeb63e-6fee-49ab-99ec-ea5044544c85.png)
 
+![image](https://user-images.githubusercontent.com/93160309/143954347-e675cca7-443f-4890-99c1-806ead432e0c.png)
 
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/93160309/143954437-b8163073-7ceb-4c9c-b65e-8da678be843c.png)
 
 
 
