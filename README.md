@@ -26,7 +26,7 @@
 
 ![image](https://user-images.githubusercontent.com/93160309/143791933-e45d7842-5014-4e18-978c-6e595391d2e7.png)
 
-## По итогам подсчитывания количества чтений программой HTSeq 
+## По итогам подсчитывания количества чтений программой HTSeq находим количество чтений, которые могут принадлежать разным генам и количество чтений, соответствующее участкам генома, где не аннотировано ни одного экзона
 
 ![image](https://user-images.githubusercontent.com/93160309/143792158-49ff99b1-9544-407d-9e9a-9b815636c3d5.png)
 
@@ -52,17 +52,19 @@ SRR3414637 | контроль | 20385570 |	19847291 (97.36%)	| 17844858 (87.54%)
 ![image](https://user-images.githubusercontent.com/93160309/143936949-1eea5bcc-f949-4ca8-bd20-f045f7a6bc38.png)
 
 ## Вторая часть
-https://colab.research.google.com/drive/1Otq7ok20gkECfx8ciF9qRnDcdvqK2uJY?usp=sharing
+Ссылка на коллаб: https://colab.research.google.com/drive/1Otq7ok20gkECfx8ciF9qRnDcdvqK2uJY?usp=sharing
 
-
+## Смотрим Log2FC для генов с помощью MA-plot
 
 ![image](https://user-images.githubusercontent.com/93160309/143938438-6d6ec846-6c00-4493-9459-2fbf6114592b.png)
 ### Большее количество дифференциально экспрессированных генов увеличило свою экспрессию
+
 
 ## Heatmap, показывающий созависимость экспрессии генов из контрольных и репрограммированных образцов
 
 ![image](https://user-images.githubusercontent.com/93160309/143952471-5d07f184-2f01-4427-8f5e-141d132a8850.png)
 ### Экспрессия генов одинакова в одной группе образцов и отличается между группами
+
 
 ## Heatmap для первых 20 наиболее дифференциально экспрессированных генов
 
